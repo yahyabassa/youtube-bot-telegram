@@ -2,3 +2,4 @@ pyrogram
 pytube
 youtube-search-python
 moviepy
+python-telegram
